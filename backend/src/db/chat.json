@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Meu chat 1",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 2,
+    "name": "Meu chat 2",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 3,
+    "name": "Meu chat 3",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 4,
+    "name": "Meu chat 4",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 5,
+    "name": "Meu chat 5",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 6,
+    "name": "Meu chat 6",
+    "especification": "Math",
+    "messages": []
+  }
+]
