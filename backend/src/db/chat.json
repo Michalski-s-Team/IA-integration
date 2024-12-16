@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Meu novo chat ",
+    "especification": "Math",
+    "messages": []
+  },
+  {
+    "id": 2,
+    "name": "Meu chat 2",
+    "especification": "Math",
+    "messages": []
+  }
+]
